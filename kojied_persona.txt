@@ -1,0 +1,2 @@
+Sample persona for kojied
+- Interest: Technology (cited from: 'I love building custom PCs...')
